@@ -12,7 +12,9 @@ As part of the project I analysed each of the cuisines first.  I downloaded the 
 * [French](https://github.com/dibyendumandal/Which-cuisine/blob/master/French.ipynb)
 
 Next, I combined these analyses to predict the cuisine of a recipe from its ingredients. 
+
 * [Prediction](https://github.com/dibyendumandal/Which-cuisine/blob/master/classification.ipynb)
+
 **I accieved 80% accuracy in my prediction.**
 
 ## Data
