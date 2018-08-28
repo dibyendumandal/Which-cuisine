@@ -19,5 +19,5 @@ Next, I combined these analyses to predict the cuisine of a recipe from its ingr
 
 ## Data Wrangling
 
-A particular challenge in the project was the presence of different forms for the the same word. For example, the word could be in plural form, in Indian language, in English and so on.  Also, the recipes contained more than just the ingredients. For instance, they also 
+A particular challenge in the project was the presence of different forms for the the same word. For example, the word could be in plural form, in Indian language, in Arabic and so on.  Also, the recipes contained more than just the ingredients. For instance, they also 
 mentioned the quantity for each ingredient(obviously!). I utilized the Python [natural lanluage toolkit](http://www.nltk.org/) to identify the nouns (ingredients) in the recipe.  The raw data are given in [recipe_data.csv](https://github.com/dibyendumandal/Which-cuisine/blob/master/recipe_data.csv).  Combined list of ingredients *(after much cleaning)* is given in [combined_ingredients.txt](https://github.com/dibyendumandal/Which-cuisine/blob/master/combined_ingredients.txt).  
