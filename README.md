@@ -17,6 +17,6 @@ Next, I combined these analyses to predict the cuisine of a recipe from its ingr
 
 **I accieved 80% accuracy in my prediction.**
 
-## Data
+## Data Wrangling
 
-A particular challenge in the project was the presence of different froms for the the same word: plural, Indian, English and so on.  Also, the recipes contained maore than just the ingredients: They mentioned how much amount was needed of any ingredient.  I needed to separate out the nouns, for example.  I utilized the Python [natural lanluage toolkit](http://www.nltk.org/) to overcome this chanllenge.  The raw data are given in [recipe_data.csv](https://github.com/dibyendumandal/Which-cuisine/blob/master/recipe_data.csv).  Combined list of ingredients (after much cleaning) is given in [combined_ingredients.txt](https://github.com/dibyendumandal/Which-cuisine/blob/master/combined_ingredients.txt).  
+A particular challenge in the project was the presence of different froms for the the same word: plural, Indian, English and so on.  Also, the recipes contained more than just the ingredients: They mentioned how much amount was needed of any ingredient.  I needed to separate out the nouns, for example.  I utilized the Python [natural lanluage toolkit](http://www.nltk.org/) to overcome this chanllenge.  The raw data are given in [recipe_data.csv](https://github.com/dibyendumandal/Which-cuisine/blob/master/recipe_data.csv).  Combined list of ingredients (after much cleaning) is given in [combined_ingredients.txt](https://github.com/dibyendumandal/Which-cuisine/blob/master/combined_ingredients.txt).  
